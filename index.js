@@ -1,4 +1,4 @@
-import articles from "../../src/js/global.js";
+import articles from "./src/js/global.js";
 document.addEventListener("DOMContentLoaded", function() {
   const menuItems = document.querySelectorAll('.menu-item');
 
